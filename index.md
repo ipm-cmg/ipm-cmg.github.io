@@ -64,9 +64,9 @@ If you would like to attend virtually or in person, please get in touch with the
 
 <br>
 <br>
-
-- **Current Status:**
-
+<!---
+**Current Status:**
+--->
 <br>
 <br>
 <br>
