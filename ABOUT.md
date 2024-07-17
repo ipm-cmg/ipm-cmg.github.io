@@ -1,3 +1,12 @@
+---
+title: IPM Cosmic Magnetism Group (CMG)
+subtitle: IPM-CMG webpage
+layout: page
+#callouts: home_callouts
+show_sidebar: false
+hero_image: img/cmb.jpg
+---
+
 # IPM-CMG webpage
 
 Based on [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
@@ -64,3 +73,4 @@ The theme is available as open source under the terms of the [MIT License](https
 ## Acknowledgments
 
 This webpage drew inspiration from the [IPM-OAM](https://github.com/ipm-oam/ipm-oam.github.io) webpage and made modifications to certain sections. We are grateful to Dr. S. Mohammad Hosseinirad for his assistance.
+
