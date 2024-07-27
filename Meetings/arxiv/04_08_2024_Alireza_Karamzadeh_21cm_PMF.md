@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2nd Meeting
+title: 3rd Meeting
 subtitle: 
 #menubar: docs_menu
 show_sidebar: false
@@ -8,10 +8,10 @@ show_sidebar: false
 hero_image: ../../../img/cmb.jpg
 ---
 
-### Report on the Bernoulli Center program on Magnetic Fields
-#### Alireza (IPM)
-**23 June 2024**
+### Talk
+####  Alireza Karamzadeh (SBU)
+**4 August 2024**
 
-[Bernoulli Center program on Magnetic Fields](https://indico.cern.ch/event/1334236/overview)
+- **Title:** The imprint of primordial magnetic field on the morphology of 21-cm fluctuations
 
-Alireza shared insights on the scientific aspects of his trip to EPFL and discussed new opportunities he encountered while visiting the Bernoulli Center.
+- **Abstract:** In this talk, I am going to explain the 21-cm line, the importance of such emission in studying magnetic fields, and all I know about the relation between the 21-cm line and primordial magnetic fields based on the newest papers and presentations.
