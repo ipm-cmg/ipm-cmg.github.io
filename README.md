@@ -1,6 +1,6 @@
 # IPM-CMG webpage
 
-Based on [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
+[IPM-CMG webpage](https://ipm-cmg.github.io/) Based on [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
 
 ## Installation on Ubuntu
 
