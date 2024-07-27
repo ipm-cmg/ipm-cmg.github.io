@@ -56,9 +56,9 @@ If you would like to attend virtually or in person, please get in touch with the
 
 | Date                | Description |
 |:--------------------|:--------|
-|23 June 2024 (3 Tir 1403)      | [Report by **Alireza Talebian** (IPM) on the Bernoulli Center program on Magnetic Fields](/Meetings/arxiv/23_06_2024_Alireza_Talebian_Bernoulli_Program) |
+|23 June (3 Tir)      | [Report by **Alireza Talebian** (IPM) on the **Bernoulli Center program on Magnetic Fields**](/Meetings/arxiv/23_06_2024_Alireza_Talebian_Bernoulli_Program) |
 |:--------------------|:--------|:---------|:---------|
-|23 Apr 2024 (4 Ordibehesht 1403) |[Inaugural Meeting](/Meetings/arxiv/23_04_2024_Inaugural_Meeting) |
+|23 Apr (4 Ordibehesht) |[Inaugural Meeting](/Meetings/arxiv/23_04_2024_Inaugural_Meeting) |
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
 
