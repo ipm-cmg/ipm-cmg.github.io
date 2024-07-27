@@ -75,8 +75,7 @@ If you would like to attend virtually or in person, please get in touch with the
 <a href = "mailto: cmgmipm@gmail.com"> cmgmipm@gmail.com </a>
 <br>
 - **Web:** [ipm-cmg.github.io](https://ipm-cmg.github.io)
-<br>
-- **[About Webpage](ABOUT)**
+
 
 
 <!---
