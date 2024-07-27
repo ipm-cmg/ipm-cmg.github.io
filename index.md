@@ -26,6 +26,8 @@ Cosmic Magnetism Group Meeting (CMGM) is the monthly meetings of the CMG to
 		[//]: # (comment) 
 --->
 
+<br><br>
+
 **Meetings:**
 
 CMGMs are held (*either in-person or hybrid*) on  **Sundays**, *typically on the first Sunday of each month*, at around **10 A.M.** (GMT+03:30) Iran Time in the SoA Seminar Room. ([Location](https://www.google.com/maps/place/Institute+for+Astronomy/@35.8039058,51.4900625,17z/data=!4m5!3m4!1s0x3f8e051f03317155:0xb31622adb7a45cc1!8m2!3d35.8053223!4d51.4915255))
@@ -49,15 +51,14 @@ If you would like to attend virtually or in person, please get in touch with the
 <br>
 <br>
 
-- **List of Meetings:**
-
+**Recent Get-Togethers:**
 
 
 | Date                | Topic(s) |
 |:--------------------|:--------|
-|23 Apr (4 Ordibehesht) |[Inaugural Meeting](/Meetings/2024/23_04_2024_Inaugural_Meeting) |
+|23 June 2024 (3 Tir 1403)      | [Report by **Alireza Talebian** (IPM) on the Bernoulli Center program on Magnetic Fields](/Meetings/arxiv/23_06_2024_Alireza_Talebian_Bernoulli_Program) |
 |:--------------------|:--------|:---------|:---------|
-|23 June (3 Tir)      |[2nd Meeting: Report on the Bernoulli Center program on Magnetic Fields](/Meetings/2024/17_06_2024_Alireza) by Alireza (IPM)|
+|23 Apr 2024 (4 Ordibehesht 1403) |[Inaugural Meeting](/Meetings/arxiv/23_04_2024_Inaugural_Meeting) |
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
 

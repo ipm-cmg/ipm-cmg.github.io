@@ -9,7 +9,7 @@ hero_image: ../../../img/cmb.jpg
 ---
 
 ### Report on the Bernoulli Center program on Magnetic Fields
-#### Alireza (IPM)
+#### Alireza Talebian (IPM)
 **23 June 2024**
 
 [Bernoulli Center program on Magnetic Fields](https://indico.cern.ch/event/1334236/overview)
