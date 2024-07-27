@@ -45,7 +45,7 @@ Your theme is set up just like a normal Jekyll site! To test your theme, run `bu
 
 ## Addition of contents
 
-The `index.md` creates the main page contents. Please add your contents to the `Meeting` folder. There is also an `Meeting/arxiv` folder to keep track of the old contents which should not be seen at the main page.
+The `index.md` creates the main page contents. Please add your contents to the `Meetings` folder. There is also an `Meetings/arxiv` folder to keep track of the old contents which should not be seen at the main page.
 
 ## Deploy (publish) the site
 
