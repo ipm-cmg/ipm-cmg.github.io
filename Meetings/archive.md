@@ -12,7 +12,7 @@ Tap <a target="_blank" href="https://calendar.google.com/calendar/u/0/r/eventedi
 
 | Date                | Description | Location |
 |:--------------------|:--------|:--------|
-|4 Aug (14 Mordad) |[ Talk by **Alireza Karamzadeh (SBU)** on 21 cm and PMF](/Meetings/arxiv/04_08_2024_Alireza_Karamzadeh_21cm_PMF) | Hybrid ( [in-person](https://www.google.com/maps/place/Institute+for+Astronomy/@35.8039058,51.4900625,17z/data=!4m5!3m4!1s0x3f8e051f03317155:0xb31622adb7a45cc1!8m2!3d35.8053223!4d51.4915255) / [virtual](https://meet.google.com/jxg-piii-cau) )  |
+|4 Aug (14 Mordad) |[ Talk by **Alireza Karamzadeh** (SBU) on 21 cm and PMF](/Meetings/arxiv/04_08_2024_Alireza_Karamzadeh_21cm_PMF) | Hybrid ( [in-person](https://www.google.com/maps/place/Institute+for+Astronomy/@35.8039058,51.4900625,17z/data=!4m5!3m4!1s0x3f8e051f03317155:0xb31622adb7a45cc1!8m2!3d35.8053223!4d51.4915255) / [virtual](https://meet.google.com/jxg-piii-cau) )  |
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
 If you would like to attend virtually or in person, please get in touch with the organizers.
