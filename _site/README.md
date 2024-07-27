@@ -1,6 +1,6 @@
 # IPM-CMG webpage
 
-Based on [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
+[IPM-CMG webpage](https://ipm-cmg.github.io/) is based on [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme).
 
 ## Installation on Ubuntu
 
@@ -45,7 +45,7 @@ Your theme is set up just like a normal Jekyll site! To test your theme, run `bu
 
 ## Addition of contents
 
-The `index.md` creates the main page contents. Please add your contents to the `Meeting` folder. There is also an `archive` folder to keep track of the old contents which should not be seen at the main page.
+The `index.md` creates the main page contents. Please add your contents to the `Meetings` folder. There is also an `Meetings/arxiv` folder to keep track of the old contents which should not be seen at the main page.
 
 ## Deploy (publish) the site
 
@@ -63,4 +63,4 @@ The theme is available as open source under the terms of the [MIT License](https
 
 ## Acknowledgments
 
-This webpage drew inspiration from the [IPM-OAM](https://github.com/ipm-oam/ipm-oam.github.io) webpage and made modifications to certain sections. We are grateful to Dr. S. Mohammad Hosseinirad for his assistance.
+This webpage drew inspiration from the [IPM-OAM](https://github.com/ipm-oam/ipm-oam.github.io) webpage and made modifications to certain sections. We are grateful to [Dr. S. Mohammad Hosseinirad](https://github.com/smhr) for his assistance.
