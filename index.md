@@ -55,9 +55,9 @@ If you would like to attend virtually or in person, please get in touch with the
 
 | Date                | Topic(s) |
 |:--------------------|:--------|
-|23 Apr (4 Ordibehesht) |[Inaugural Meeting](/Meetings/2024/23_04_2024_Inaugural_Meeting) |
+|23 Apr (4 Ordibehesht) |[Inaugural Meeting](/Meetings/arxiv/23_04_2024_Inaugural_Meeting) |
 |:--------------------|:--------|:---------|:---------|
-|23 June (3 Tir)      |[2nd Meeting: Report on the Bernoulli Center program on Magnetic Fields](/Meetings/2024/17_06_2024_Alireza) by Alireza (IPM)|
+|23 June (3 Tir)      | [Report by **Alireza Talebian** (IPM) on the Bernoulli Center program on Magnetic Fields](/Meetings/arxiv/17_06_2024_Alireza) |
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
 

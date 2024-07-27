@@ -1,9 +1,9 @@
 #########################################
 - name: Meetings
-#  link: /presentations/
-  dropdown:
-    - name: 2024
-      link: /archive/2024/
+  link: /Meetings/archive
+#  dropdown:
+#    - name: 2024
+#      link: /archive/2024/
 #    - name: 2025
 #      link: /archive/2025/
 #########################################
