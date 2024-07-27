@@ -54,7 +54,7 @@ If you would like to attend virtually or in person, please get in touch with the
 **Recent Get-Togethers:**
 
 
-| Date                | Topic(s) |
+| Date                | Description |
 |:--------------------|:--------|
 |23 June 2024 (3 Tir 1403)      | [Report by **Alireza Talebian** (IPM) on the Bernoulli Center program on Magnetic Fields](/Meetings/arxiv/23_06_2024_Alireza_Talebian_Bernoulli_Program) |
 |:--------------------|:--------|:---------|:---------|
