@@ -12,7 +12,7 @@ Tap <a target="_blank" href="https://calendar.google.com/calendar/u/0/r/eventedi
 
 | Date                | Description | Location |
 |:--------------------|:--------|:--------|
-|4 Aug (14 Mordad) |[ Talk by **Alireza Karamzadeh** (SBU) on **PMF and 21 cm**](/Meetings/arxiv/04_08_2024_Alireza_Karamzadeh_21cm_PMF) | Hybrid ( [in-person](https://www.google.com/maps/place/Institute+for+Astronomy/@35.8039058,51.4900625,17z/data=!4m5!3m4!1s0x3f8e051f03317155:0xb31622adb7a45cc1!8m2!3d35.8053223!4d51.4915255) / [virtual](https://meet.google.com/jxg-piii-cau) )  |
+|4 Aug (14 Mordad) |[ Talk by **Dr. Asiyeh Yaghoobi** (IPM) on **MF and the Rayleigh–Taylor Instability**](/Meetings/arxiv/???) | Hybrid ( [in-person](https://www.google.com/maps/place/Institute+for+Astronomy/@35.8039058,51.4900625,17z/data=!4m5!3m4!1s0x3f8e051f03317155:0xb31622adb7a45cc1!8m2!3d35.8053223!4d51.4915255) / [virtual](???? - https://meet.google.com/jxg-piii-cau) )  |
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
 If you would like to attend virtually or in person, please get in touch with the organizers.
@@ -28,6 +28,8 @@ If you would like to attend virtually or in person, please get in touch with the
 |23 Apr 2024 (4 Ordibehesht 1403) |[Inaugural Meeting](/Meetings/arxiv/23_04_2024_Inaugural_Meeting) |
 |:--------------------|:--------|:---------|:---------|
 |23 June 2024 (3 Tir 1403)      | [Report by **Alireza Talebian** (IPM) on the **Bernoulli Center program on Magnetic Fields**](/Meetings/arxiv/23_06_2024_Alireza_Talebian_Bernoulli_Program) |
+|:--------------------|:--------|:---------|:---------|
+|4 Aug (14 Mordad) |[ Talk by **Alireza Karamzadeh** (SBU) on **PMF and 21 cm**](/Meetings/arxiv/04_08_2024_Alireza_Karamzadeh_21cm_PMF) |
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
 
