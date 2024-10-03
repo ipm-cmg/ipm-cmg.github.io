@@ -9,12 +9,12 @@ hero_image: ../../../img/cmb.jpg
 ---
 
 ### Talk
-####  Alireza Karamzadeh (SBU)
-**4 August 2024**
+####  Dr. Asiyeh Yaghoobi (IPM)
+**27 August 2024**
 
-- **Title:** The imprint of primordial magnetic field on the morphology of 21-cm fluctuations
+- **Title:** The Role of the Magnetic Field in the Growth of Rayleigh–Taylor Instability
 
-- **Abstract:** In this talk, I am going to explain the 21-cm line, the importance of such emission in studying magnetic fields, and all I know about the relation between the 21-cm line and primordial magnetic fields based on the newest papers and presentations.
+- **Abstract:** In this talk, we will explore one of the most important instabilities in astrophysics, known as the Rayleigh–Taylor instability, which occurs in both terrestrial and astrophysical systems. We will then focus on the linear analysis of this instability in the presence of a magnetic field and examine how the magnetic field influences its growth and the formation of astrophysical structures.
 
 <!--
 email:
