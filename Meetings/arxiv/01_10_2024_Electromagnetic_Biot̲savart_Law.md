@@ -9,10 +9,10 @@ hero_image: ../../../img/cmb.jpg
 ---
 
 ### Free Discussion
-####  Electromagnetic Biot-Savart Law
+####  Biot-Savart Law in Cosmic Scales
 **1 October 2024**
 
-- **Title:** Electromagnetic Biot-Savart Law
+- **Title:** Biot-Savart Law in Cosmic Scales
 
 - **Abstract:** In this meeting, we discussed magnetic fields generated via possible cosmic net currents from galaxies and filaments. Heidar and Alireza presented notes and codes on the Biot-Savart Law and its potential applications on cosmic scales. Heidar discussed how a configuration of a current loop might be applicable to an AGN galaxy and/or large-scale filaments.
 

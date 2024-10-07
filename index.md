@@ -75,7 +75,7 @@ If you would like to attend virtually or in person, please get in touch with the
 
 | Date                | Description |
 |:--------------------|:--------|
-|1 Oct 2024 (10 Mehr 1403) |[ Free Discussion: **Electromagnetic Biot-Savart Law**](/Meetings/arxiv/01_10_2024_Electromagnetic_Biot̲savart_Law) | Hybrid ( [in-person](https://www.google.com/maps/place/Institute+for+Astronomy/@35.8039058,51.4900625,17z/data=!4m5!3m4!1s0x3f8e051f03317155:0xb31622adb7a45cc1!8m2!3d35.8053223!4d51.4915255) / [virtual](???? - https://meet.google.com/agf-comq-gfw) )  |
+|1 Oct 2024 (10 Mehr 1403) |[ Free Discussion: **Biot-Savart Law in Cosmic Scales**](/Meetings/arxiv/01_10_2024_Electromagnetic_Biot̲savart_Law) | Hybrid ( [in-person](https://www.google.com/maps/place/Institute+for+Astronomy/@35.8039058,51.4900625,17z/data=!4m5!3m4!1s0x3f8e051f03317155:0xb31622adb7a45cc1!8m2!3d35.8053223!4d51.4915255) / [virtual](???? - https://meet.google.com/agf-comq-gfw) )  |
 |:--------------------|:--------|:---------|:---------|
 |4 Aug 2024 (14 Mordad 1403) |[ Talk by **Dr. Asiyeh Yaghoobi** (IPM) on **MF and the Rayleigh–Taylor Instability**](/Meetings/arxiv/27_08_2024_Asiyeh_Yaghoobi_MF_RT) | Hybrid ( [in-person](https://www.google.com/maps/place/Institute+for+Astronomy/@35.8039058,51.4900625,17z/data=!4m5!3m4!1s0x3f8e051f03317155:0xb31622adb7a45cc1!8m2!3d35.8053223!4d51.4915255) / [virtual](???? - https://meet.google.com/jxg-piii-cau) )  |
 |:--------------------|:--------|:---------|:---------|
